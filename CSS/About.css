@@ -261,6 +261,7 @@ nav h1 {
     flex-direction: column;
     position: relative;
     margin-top: 25vh;
+    margin-bottom: 15vh;
 }
 
 .page1-elems {
