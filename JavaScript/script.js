@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
         let increment;
         let duration;
 
-        if (target === 5400000 || target === 850000) {
+        if (target === 5400000 || target === 650000) {
             increment = target / 200;
             duration = 5;
         } else if (target === 7.5 || target === 5.8) {
